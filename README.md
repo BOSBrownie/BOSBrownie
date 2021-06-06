@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOSBrownie
 - 👀 I’m interested in Coding, programming, photography, yoga & gaming
-- 🌱 I’m currently learning [Microsoft Power BI]
+- 🌱 I’m currently learning Microsoft Power BI
 - 💞️ I’m looking to collaborate on any sports data
 - 📫 How to reach me on Twitter at @nishdiwan94
 
